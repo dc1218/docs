@@ -7,4 +7,4 @@
 
 
 <!-- 背景图片 必须文末 -->
-![](_media/bg.jpg)
+![logo](_media/bg.jpg)
