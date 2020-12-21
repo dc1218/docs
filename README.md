@@ -1,3 +1,3 @@
-# <center>测试标题
-## 测试副标题
-- 测试类容
+<center>记录
+# [第1个记录](record/test.md)
+# [第2个记录](record/system_env.md)
