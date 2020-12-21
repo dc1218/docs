@@ -1,6 +1,6 @@
 # <center>记录
 ## 第1个记录
-  - centos8包管理
+  - 那一年的夏天
     - dnf update
 ## 第2个记录
   - rust
