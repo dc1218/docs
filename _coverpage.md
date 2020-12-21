@@ -5,7 +5,7 @@ window.$docsify = {
   
 <!-- 背景图片 -->
 
-![](_media/bg.png)
+![](_media/bg.jpg)
 
 <!-- 背景色 -->
 
