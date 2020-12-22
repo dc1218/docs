@@ -13,13 +13,14 @@
   <script>
     window.$docsify = {
       auto2top: true, //当路线改变时，滚动到屏幕的顶部。
-      coverpage: true, //激活封面功能。如果为true，则会从中加载_coverpage.md。
+      coverpage: false, //激活封面功能。如果为true，则会从中加载_coverpage.md。
       loadSidebar: true,
       loadNavbar: true,//_navbar.md如果为真，则从_navbar.md文件加载navbar ，否则从指定的路径加载。
       mergeNavbar: true,//Navbar将在小屏幕上与侧边栏合并。
       name: '',
       repo: '',
       search: {
+        maxAge: 864000,
         depth: 6,
         noData: {
           '/': '没有数据!'
